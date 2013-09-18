@@ -23,7 +23,7 @@ Agencies/Recruiters not following these rules, will get blacklisted. Equally Age
 ### CVs /  Candidates
 * Do not send us anonymous CVs - they will not be considered. If you send us a candidate we want to know who they are, where they've worked and whether we've seen them before.
 * When sending us a CV, please include the candidate's salary expectations and availability
-* We typically only consider candidates already in the UK. If they are not in the UK, please tell us.
+* We typically only consider candidates willing to relocate to Berlin, Germany.
 
 ### Terms and Conditions
 * We will not sign your terms and conditions. 
